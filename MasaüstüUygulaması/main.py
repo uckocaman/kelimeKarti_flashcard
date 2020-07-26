@@ -13,7 +13,6 @@ class main(QMainWindow):
         self.ui.setupUi(self)
         self.dogru = 0
         self.yanlis = 0
-        self.setWindowIcon(QIcon('logo.png'))
         self.setGeometry(550,130,880,840)
         self.ui.btnGozat.clicked.connect(self.onClickedGozat)
         self.ui.btnSor.clicked.connect(self.onClickedYonlendirme)
