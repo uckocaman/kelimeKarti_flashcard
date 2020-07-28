@@ -8,4 +8,6 @@ Uygulamayı denemek için örnek [kelime](kelime.json) dosyasını kullanabilirs
 
 Pyqt5 ile tasarladığım masaüstü uygulamasına [buradan](MasaüstüUygulaması) ulaşabilirsiniz. 
 
+You can find the English version of the desktop application I designed with Pyqt5 [here](Desktop App).
+
 Umarım yararlı bir uygualama olmuştur.
