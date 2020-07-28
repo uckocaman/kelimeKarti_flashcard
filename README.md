@@ -6,7 +6,7 @@ The difference of this application from the others is that the meaning of the wo
 
 You can find the English version of the desktop application I designed with Pyqt5 [here](DesktopApp).
 
-You can use the sample [word] (https://github.com/umuutkocaman/kelimeKarti_flashcard/blob/master/DesktopApp/words.json) file to try the application. If you want, you can add / remove files manually or using the application.
+You can use the sample [word](DesktopApp/words.json) file to try the application. If you want, you can add / remove files manually or using the application.
 
 I hope it was a useful application.
 
